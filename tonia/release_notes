@@ -1,0 +1,14 @@
+version 2.0.0
+Support gym, refill, drug, crime, beer, city, slot, blood withdraw and so on.
+
+version 2.0.1
+Fix plenty of bugs.
+Support blood bag usage.
+Set minimum android version to 4.4.
+Enable user validation again.
+
+version 2.1.0
+Support travel and shopping.
+Support rehabilitation.
+Support apk auto update.
+Support money management.
