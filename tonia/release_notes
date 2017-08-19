@@ -17,3 +17,9 @@ version 2.1.1
 Fix crashes when abroad in UAE
 Add options to turn off auto rehab
 Add options to set the addiction limit for rehab
+
+version 2.2.0
+Fix energy refill.
+Adjust loggings.
+Support adjusting salaries of employees
+Support training employees
