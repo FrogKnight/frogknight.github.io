@@ -23,3 +23,13 @@ Fix energy refill.
 Adjust loggings.
 Support adjusting salaries of employees
 Support training employees
+
+version 2.2.1
+Fix some crashes.
+Adjust salary rule.
+Fix logging problem
+
+version 2.2.2
+Stop buying vicodins from Canada.
+Display item name when shopping.
+Fix training the same employees.
