@@ -33,3 +33,7 @@ version 2.2.2
 Stop buying vicodins from Canada.
 Display item name when shopping.
 Fix training the same employees.
+
+version 2.2.3
+Fix tonia server problem.
+Fix vault loop bug.
