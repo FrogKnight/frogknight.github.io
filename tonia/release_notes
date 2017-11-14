@@ -37,3 +37,6 @@ Fix training the same employees.
 version 2.2.3
 Fix tonia server problem.
 Fix vault loop bug.
+
+version 2.2.4
+Fix problems caused by the new sidebar
