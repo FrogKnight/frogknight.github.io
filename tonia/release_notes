@@ -46,3 +46,6 @@ Use checkbox on lower version to support emulator
 
 version 2.2.6
 Fix crash when no company
+
+version 2.2.7
+Fix crash when checking status
