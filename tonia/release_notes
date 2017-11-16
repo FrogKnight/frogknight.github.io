@@ -49,3 +49,6 @@ Fix crash when no company
 
 version 2.2.7
 Fix crash when checking status
+
+version 2.2.8
+Fix crash when checking user id abroad
