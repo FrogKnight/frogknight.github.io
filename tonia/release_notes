@@ -52,3 +52,6 @@ Fix crash when checking status
 
 version 2.2.8
 Fix crash when checking user id abroad
+
+version 2.2.9
+Fix auto login issue.
