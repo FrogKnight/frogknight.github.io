@@ -59,3 +59,7 @@ Fix auto login issue.
 version 2.2.10
 Fix slot
 Fix company
+
+version 2.3.0
+Fix company
+Add bail/bust for VIP
