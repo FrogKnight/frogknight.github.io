@@ -63,3 +63,6 @@ Fix company
 version 2.3.0
 Fix company
 Add bail/bust for VIP
+
+version 2.3.1
+Fix crash on 4.x devices
