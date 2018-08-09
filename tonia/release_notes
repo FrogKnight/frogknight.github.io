@@ -77,3 +77,8 @@ Fix no uid error
 version 2.4.0
 Make browser faster
 Change UI
+
+version 2.4.1
+Add and fix some links
+Add back refresh button
+Add some notificaitons
